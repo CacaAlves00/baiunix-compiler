@@ -1,0 +1,4 @@
+let foo(number) = print(number / 10);
+x = 10000
+while (x <> 1) do x = foo(x);
+1a
